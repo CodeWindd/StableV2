@@ -1,0 +1,6 @@
+{
+  "name": "Onyx Weather",
+  "description": "A premium Material 3 weather dashboard with OLED-black aesthetics and global SVG icon support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
